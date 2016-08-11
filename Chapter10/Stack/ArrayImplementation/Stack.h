@@ -3,7 +3,6 @@ class Stack{
 	int* S;
 	int stackSize;
 	int head;
-	int tail;
 	int capacity;
 	void doubleArray();
 	void freeMemory();
